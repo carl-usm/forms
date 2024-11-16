@@ -12,8 +12,6 @@ if(isset($_POST['submit'])){
 
 }
 
-echo'
-    thanks
-    ';
+echo 'thanks';
 
 $>
